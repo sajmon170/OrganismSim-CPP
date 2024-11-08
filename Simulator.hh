@@ -78,6 +78,6 @@ protected:
 	static void quit(Simulator&);
 	
 public:
-InputHandler(Simulator& sim);
+	InputHandler(Simulator& sim);
 	void process(int input);
 };

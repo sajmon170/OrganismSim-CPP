@@ -131,7 +131,6 @@ void Simulator::run() {
 		input = program.get("Input").getChar();
 		handler.process(input);
 	}
-	while (isRunning());
 }
 
 Simulator::Builder& Simulator::Builder::setInitialPopulation(int population) {
