@@ -2,7 +2,7 @@
 
 #include "CursesApp.hh"
 #include "OrganismFactory.hh"
-#include "Human.hh"
+#include "animals/Human.hh"
 #include "World.hh"
 #include "Vector2.hh"
 

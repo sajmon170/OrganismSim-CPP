@@ -1,6 +1,6 @@
 #include "OrganismFactory.hh"
-#include "Animals.hh"
-#include "Plants.hh"
+#include "animals/Animals.hh"
+#include "plants/Plants.hh"
 
 #include <cctype>
 

@@ -1,0 +1,3 @@
+[submodule "subprojects/libcursespp"]
+	path = subprojects/libcursespp
+	url = git@github.com:sajmon170/libcursespp.git
